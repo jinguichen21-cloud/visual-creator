@@ -1,0 +1,14 @@
+# 敏感配置 — 不打包
+mcp-config.json
+.env
+*.env
+.env.local
+.env.*.local
+
+# Python 缓存
+__pycache__
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
